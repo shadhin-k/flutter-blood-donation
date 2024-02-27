@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868747759569",
+    "project_id": "blood-donor-app-c0f3a",
+    "storage_bucket": "blood-donor-app-c0f3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868747759569:android:9a538ae9a04c5482289af0",
+        "android_client_info": {
+          "package_name": "com.example.blood_donor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYuDxdTXWuWdh0IyOqSk3OOD8mcHE5x-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
